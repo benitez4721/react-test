@@ -3,7 +3,8 @@
 URL: https://pokeapi.co/api/v2/pokemon?offset=0&limit=10
 
 RESPONSE: 
-``{
+```
+{
     "count": 1126,
     "next": "https://pokeapi.co/api/v2/pokemon?offset=10&limit=10",
     "previous": null,
@@ -49,4 +50,5 @@ RESPONSE:
             "url": "https://pokeapi.co/api/v2/pokemon/10/"
         }
     ]
-}``
+}
+```
